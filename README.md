@@ -1,0 +1,1 @@
+A simple and user-friendly To-Do List application that helps you organize and prioritize your tasks. This project is great for keeping track of daily tasks, personal goals, and deadlines in an efficient way.
